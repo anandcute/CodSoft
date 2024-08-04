@@ -4,7 +4,7 @@ package CodSoft;
 //STUDENT GRADE CALCULATOR
 import java.util.Scanner;
 
-class Task_2 {
+public class Task_2 {
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
